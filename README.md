@@ -63,3 +63,7 @@ Contributions by Ed Preston (@epreston) and others. Thank You!
 Copyright 2013-2017 Christian Neff / Blackrock Digital LLC.
 
 Code released under the [MIT](https://github.com/secondtruth/startmin/blob/master/LICENSE) license.
+
+## By Subet
+
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
